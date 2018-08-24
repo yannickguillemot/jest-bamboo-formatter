@@ -1,6 +1,6 @@
 {
   "name": "jest-bamboo-formatter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "nyc tape tests/index.test.js"
